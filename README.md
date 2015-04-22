@@ -3,6 +3,8 @@ Linux - High Availability (Routing technique)
 
 HA for optenet1/optenet2 and squid1/squid2
 
+Open in RAW to be visible:
+
 vpn1       optenet1    squid1
 +---+      +---+      +---+
 |   |------|   |------|   |
